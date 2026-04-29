@@ -7,30 +7,26 @@ Each user gets their own private workspace to create, manage, and track tasks.
 
 ## ✨ Features
 
-* 🔐 **Authentication**
+- 🔐 **Authentication**
+  - Signup & Login
+  - Password hashing (bcrypt)
+  - JWT-based authentication
+  - Protected routes
 
-  * Signup & Login
-  * Password hashing (bcrypt)
-  * JWT-based authentication
-  * Protected routes
+- 📋 **Task Management**
+  - Create tasks
+  - View only your tasks
+  - Mark tasks as completed
+  - Delete tasks
 
-* 📋 **Task Management**
+- 🧠 **Multi-user Support**
+  - Strict user-task relationship
+  - No data leakage between users
 
-  * Create tasks
-  * View only your tasks
-  * Mark tasks as completed
-  * Delete tasks
-
-* 🧠 **Multi-user Support**
-
-  * Strict user-task relationship
-  * No data leakage between users
-
-* 🎨 **Modern UI**
-
-  * React + Tailwind CSS
-  * Glassmorphism design
-  * Responsive layout
+- 🎨 **Modern UI**
+  - React + Tailwind CSS
+  - Glassmorphism design
+  - Responsive layout
 
 ---
 
@@ -38,22 +34,22 @@ Each user gets their own private workspace to create, manage, and track tasks.
 
 ### Frontend
 
-* React (Vite)
-* Tailwind CSS
-* Axios
-* React Router
+- React (Vite)
+- Tailwind CSS
+- Axios
+- React Router
 
 ### Backend
 
-* Node.js
-* Express.js
-* Sequelize ORM
-* PostgreSQL (Supabase)
+- Node.js
+- Express.js
+- Sequelize ORM
+- PostgreSQL (Supabase)
 
 ### Authentication
 
-* JWT (JSON Web Tokens)
-* bcrypt
+- JWT (JSON Web Tokens)
+- bcrypt
 
 ---
 
@@ -84,8 +80,8 @@ TaskManagement/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Sriram-Harshit/SAAS-TASK-MANAGEMENT-ASSIGNMENT/
+cd SAAS-TASK-MANAGEMENT-ASSIGNMENT
 ```
 
 ---
@@ -159,21 +155,22 @@ DELETE /api/tasks/:id
 
 ---
 
+<!--
 ## 🚀 Deployment
 
-* Frontend: Vercel / Netlify
-* Backend: Railway / Render
-* Database: Supabase
+- Frontend: Vercel / Netlify
+- Backend: Railway / Render
+- Database: Supabase
 
 ---
 
 ## 🧠 Learning Highlights
 
-* Built a full-stack SaaS architecture
-* Implemented secure authentication flow
-* Designed RESTful APIs
-* Managed relational database with Sequelize
-* Created protected frontend routes
+- Built a full-stack SaaS architecture
+- Implemented secure authentication flow
+- Designed RESTful APIs
+- Managed relational database with Sequelize
+- Created protected frontend routes
 
 ---
 
@@ -187,11 +184,4 @@ Pull requests are welcome. For major changes, open an issue first.
 
 This project is open-source and available under the MIT License.
 
----
-
-## 👨‍💻 Author
-
-**Shri Ram Harshit**
-
-* 💼 Aspiring Software Developer
-* 🚀 Interested in AI, Web Development, and Backend Systems
+--- -->
